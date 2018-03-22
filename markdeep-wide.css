@@ -1,0 +1,14 @@
+/* Custom stylesheet for adjusting base Markdeep styles for wide-screens.
+   Unlicensed (~Public Domain).
+*/
+@media screen and (min-width: 1600px) and (min-width: 100em) {
+  .md .longTOC, .md .mediumTOC, .md .shortTOC {
+    left: 80vw;
+    max-width: 12vw;
+    overflow-y: auto;
+  }
+  body {
+    margin-left: 8vw;
+    max-width: 70vw;
+  }
+}
