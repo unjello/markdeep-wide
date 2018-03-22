@@ -10,7 +10,11 @@ And while shorter lines are easier to read, the result in a full-screen browser 
 Here's a little comparison:
 ![Comparison](./comparison.jpg)
 
-To use it in your Markdeep document, just put a `<link rel="stylesheet" href="https://cdn.rawgit.com/unjello/markdeep-wide/master/markdeep-wide.css">` somewhere on the page, after your main stylesheet. Or just copy `markdeep-wide.css` locally to your folder.
+To use it in your Markdeep document, just put a
+```html
+<link rel="stylesheet" href="https://cdn.rawgit.com/unjello/markdeep-wide/master/markdeep-wide.css">
+```
+somewhere on the page, after your main stylesheet. Or just copy `markdeep-wide.css` locally to your folder.
 
 ## License
 - Unlicense (~Public Domain)
