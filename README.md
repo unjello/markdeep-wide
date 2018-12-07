@@ -12,7 +12,7 @@ Here's a little comparison:
 
 To use it in your Markdeep document, just put a
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/unjello/markdeep-wide/master/markdeep-wide.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/unjello/markdeep-wide/markdeep-wide.css">
 ```
 somewhere on the page, after your main stylesheet. Or just copy `markdeep-wide.css` locally to your folder.
 
