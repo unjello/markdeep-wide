@@ -17,7 +17,7 @@ To use it in your Markdeep document, just put a
 somewhere on the page, after your main stylesheet. Or just copy `markdeep-wide.css` locally to your folder.
 
 ## License
-- Unlicense (~Public Domain)
+- CC0 (~Public Domain)
 
 ## Related workd
 - [Markdeep](https://casual-effects.com/markdeep)
